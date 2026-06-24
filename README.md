@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/c01b55f1-a3b9-45c4-9d0e-68625987dc00
+
+
 A recreation of the classic Pong arcade game built using Python's Turtle graphics library.
 Two players compete to keep the ball in play, with uniquely coloured paddles making it easy to 
 distinguish between each side during gameplay.
@@ -16,6 +19,7 @@ FEATURES:
 5.Collision detection with paddles and screen boundaries.
 
 SKILLS I USED:
+
 1.Turtle graphics
 
 2.Object oriented programming
